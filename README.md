@@ -1,1 +1,1 @@
-# Mureq: A Transformer-Powered Chatbot for Arabic Agricultural Question Answering
+# Mureq : A transformer-driven chatbot for Arabic agricultural knowledge
