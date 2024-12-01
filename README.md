@@ -5,7 +5,7 @@ This agricultural chatbot named Mureq provides knowledge and support in the fiel
  (QA) model, fine-tuned for the agricultural domain. This model was seamlessly integrated with
  a Retriever-Reader architecture, facilitated by the Haystack framework.
 
-<img src="https://github.com/sajaalsaab/Mureq-Agricultural-Chatbot/blob/main/logo.jpg" width="200" height="200" />
+<img src="https://github.com/sajaalsaab/Mureq-Agricultural-Chatbot/blob/main/logo.jpg" width="500" height="400" />
 
 
 
